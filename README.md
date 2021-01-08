@@ -1,1 +1,2 @@
-# Create My Course at Pymi.vn timetable with trello api
+# Create Course timetable at Pymi with trello api
+
